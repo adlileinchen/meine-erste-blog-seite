@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>Blog - meine erste blog seite</title>
+  </head>
+  <body>
+  
+    <h1 class="title">Über mich/h1>
+
+    <p>Mit diesem Blog lerne ich meine erste Blog Seite über GitHub mit HTML zu erstellen. Ich werde einen Blog erstellen in welchem ich Dinge aus meinem Leben aufgreife und die von mir verlangten Aufgaben erfülle.</p>
+
+    <h2> Über Mich: </h2>
+    
+     <p>Mein Name ist Adriana. Ich bin 21 jahre alt und studiere an der HFU Medieninformatik.Ich interessiere mich für Technologie, Mode und Kunst. In diesem Blog werde ich Eindrücke aus meinem leben teilen und das GIS Praktikum bestehen!c: </p>
+
+  </body>
+</html>
+
+</head>
+  <body>
+    <h1 class="title">Social Media:</h1>
+
+<p>Ich bin auf Social Media vertretten unter <a href="https://instagram.com/adrianafrmll?utm_medium=copy_link">@adrifrmll</a></p>
+
+</body>
+</html>
